@@ -15,6 +15,7 @@
 - [Syntax.fm - Working From Home During the Pandemic (With or Without Kids)](https://syntax.fm/show/238/working-from-home-during-the-pandemic-with-or-without-kids)
 
 ## Guides & Resources
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) — Free browser freelance invoice, timesheet, and expense/receipt log tools.
 - [Gitlab The Remote Manifesto](https://about.gitlab.com/company/culture/all-remote/#the-remote-manifesto)
 - [More GitLab remote resources](https://about.gitlab.com/blog/2020/03/06/resources-for-companies-embracing-remote-work)
 
